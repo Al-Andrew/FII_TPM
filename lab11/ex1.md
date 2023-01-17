@@ -1,0 +1,1 @@
+Nu vad alta problema decat ca eficienta. Varianta prezentata este ineficienta in sensul ca threadu-urile care sunt blocate (spinning) consuma in continuare resurse de procesor.
